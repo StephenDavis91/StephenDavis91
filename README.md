@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephenDavis91
-- 👀 I’m interested in Data Analytics, Business Intelligence, Programming and Machine Learning
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning SQL, Python and Hadoop
 - 💞️ I’m looking to collaborate on anything for beginners
 - 📫 How to reach me by email at stephen.m.davis1991@gmail.com
 
